@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/news-reader/static/css/main.b70b74a0.chunk.css",
+    "main.js": "/news-reader/static/js/main.e9f1c449.chunk.js",
+    "main.js.map": "/news-reader/static/js/main.e9f1c449.chunk.js.map",
+    "runtime-main.js": "/news-reader/static/js/runtime-main.1e6782c8.js",
+    "runtime-main.js.map": "/news-reader/static/js/runtime-main.1e6782c8.js.map",
+    "static/js/2.dce232e5.chunk.js": "/news-reader/static/js/2.dce232e5.chunk.js",
+    "static/js/2.dce232e5.chunk.js.map": "/news-reader/static/js/2.dce232e5.chunk.js.map",
+    "index.html": "/news-reader/index.html",
+    "static/css/main.b70b74a0.chunk.css.map": "/news-reader/static/css/main.b70b74a0.chunk.css.map",
+    "static/js/2.dce232e5.chunk.js.LICENSE.txt": "/news-reader/static/js/2.dce232e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e6782c8.js",
+    "static/js/2.dce232e5.chunk.js",
+    "static/css/main.b70b74a0.chunk.css",
+    "static/js/main.e9f1c449.chunk.js"
+  ]
+}
